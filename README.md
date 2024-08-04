@@ -13,8 +13,6 @@ My role in this project was whole the software, the connection between raspberry
 control the motors, also I database creator and manager, OCR that reads the prescription, and 
 GUI designer and developer.
 
-</spa
-
 <video width="320" height="240" controls>
   <source src=" Gradution Project Promo.mp4" type="video/mp4">
 </video>
